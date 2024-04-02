@@ -27,8 +27,8 @@
 
 //Moduły
 // const { request } = require("http");
-const myModule = require("./my-module");
-console.log(myModule);
+// const myModule = require("./my-module");
+// console.log(myModule);
 
 // const express = require("express");
 // const { readFile } = require("fs");
@@ -62,3 +62,6 @@ console.log(myModule);
 // );
 
 //(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )(◐ω◑ )
+
+const myModule = require("./my-module");
+console.log(myModule);
